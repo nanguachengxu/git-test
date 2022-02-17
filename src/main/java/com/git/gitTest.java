@@ -10,5 +10,6 @@ public class gitTest {
         System.out.println("master");
 
         System.out.println("fix-hot");
+        System.out.println("push git");
     }
 }
