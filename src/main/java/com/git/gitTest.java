@@ -11,5 +11,6 @@ public class gitTest {
 
         System.out.println("fix-hot");
         System.out.println("push git");
+        System.out.println("pull git");
     }
 }
